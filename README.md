@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 --
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5835fc40-f185-4f6b-abbf-e0911de82f6f.svg)](https://wakatime.com/@5835fc40-f185-4f6b-abbf-e0911de82f6f)
